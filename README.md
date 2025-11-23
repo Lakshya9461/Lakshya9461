@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Docker, C++**
 
-- 👯 I’m looking to collaborate on **making a file explorer**
+- 👯 I’m looking to collaborate on **making an Agentic Browser**
 
 - 💬 Ask me about **linux, C, Python**
 
