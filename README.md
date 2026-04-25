@@ -3,8 +3,6 @@
 
 <br/>
 
-- 🔭 I'm currently working on a **Voice Note-Taking SaaS** integrated with NotebookLM
-- 🛰️ Recently prepped for a **Software Engineering Internship** at OneArc Space Technologies
 - 🌱 I'm currently learning **Docker, C++, and agentic AI workflows**
 - 🤖 I build with **Python, ML pipelines, Flutter/mobile apps, and home server setups**
 - 💬 Ask me about **Linux, self-hosted infra, ML projects, or Cloudflare tunnels**
