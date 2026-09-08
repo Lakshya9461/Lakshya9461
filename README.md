@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lakshya</h1>
-<h3 align="center">CS student @ JK Lakshmipat University · Building things in ML, mobile apps & self-hosted infra</h3>
+<h3 align="center">CS student Building things in ML, mobile apps & self-hosted infra</h3>
 
 <br/>
 
